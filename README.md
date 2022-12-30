@@ -30,6 +30,10 @@ Replace `<hostname>` with the hostname or IP address to bind the server to, and 
 
 To start the client, run the following command:
 
+```sh
+python client.py <hostname> <port>
+
+```
 
 Replace `<hostname>` with the hostname or IP address of the server, and `<port>` with the port number the server is listening on.
 
